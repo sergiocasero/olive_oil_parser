@@ -6,6 +6,7 @@ import os
 import PyPDF2
 import re
 import json
+import datetime
 
 endpoint = "https://www.mapa.gob.es"
 url = endpoint + "/es/agricultura/temas/producciones-agricolas/aceite-oliva-y-aceituna-mesa/Evolucion_precios_AO_vegetales.aspx"
@@ -63,9 +64,15 @@ def extract_tuple_id(filename):
 
     tupleId = year + week
 
+    # get the datetime from week number and year
+    d = year + "-W" + week
+
+    r = datetime.datetime.strptime(d + '-1', "%Y-W%W-%w")
+
     #convert to int
     return {
         "id" : int(tupleId),
+        "datetime": r.strftime("%Y-%m-%d"),
         "label": "Semana " + week + " de " + year,
         "value": 0
     }
@@ -172,14 +179,17 @@ def crawl():
     separator = ";"
     for category in categories:
         with open(category["id"] + ".csv", "w") as f:
-            f.write("id;label;spain;andalucia;catalunya;castillaLaMancha;extremadura")
+            f.write("id;datetime;label;spain;andalucia;catalunya;castillaLaMancha;extremadura")
             f.write("\n")
             for tuple in category["history"]:
                 cm = 0
                 # if  tuple["ccaa"]["castillaLaMancha"] exists, add it to the cm variable
+
+
+
                 if "castillaLaMancha" in tuple["ccaa"]:
                     cm = tuple["ccaa"]["castillaLaMancha"]
-                f.write(str(tuple["id"]) + separator + tuple["label"] + separator + str(tuple["value"]) + separator + str(tuple["ccaa"]["andalucia"]) + separator + str(tuple["ccaa"]["catalunya"]) + separator + str(cm) + separator + str(tuple["ccaa"]["extremadura"]))
+                f.write(str(tuple["id"]) + separator + tuple["datetime"] + separator + tuple["label"] + separator + str(tuple["value"]) + separator + str(tuple["ccaa"]["andalucia"]) + separator + str(tuple["ccaa"]["catalunya"]) + separator + str(cm) + separator + str(tuple["ccaa"]["extremadura"]))
                 f.write("\n")
 
             f.close()
