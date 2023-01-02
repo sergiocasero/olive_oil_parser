@@ -105,30 +105,7 @@ def extract_pdf_info(pdf):
     
 
     pdfFileObj.close()
-        
 
-def crawl():
-    pdfs = get_pdf_links(url)
-    save_pdfs(pdfs, getLocalPdfs())
-
-    savedPdfs = getLocalPdfs()
-
-    for pdf in savedPdfs:
-        try:
-            extract_pdf_info(pdf)
-        except Exception as e:
-            print(e)
-            print("Error extracting info from " + pdf)
-            continue
-
-    for category in categories:
-        # sort the history array by id
-        category["history"].sort(key=lambda x: x["id"])
-
-    # save categories to json
-    with open("data.json", "w") as f:
-        json.dump(categories, f, indent=4)
-        f.close()
 
 def extract_ccaa_info(lines, ccaa):
     ccaaTuples = []
@@ -166,6 +143,46 @@ def extract_ccaas_history(categoryId, page):
         result["castillaLaMancha"] = extract_ccaa_info(lines, "Castilla-La Mancha")[valueToExtract]
     
     return result
+
+
+def crawl():
+    pdfs = get_pdf_links(url)
+    save_pdfs(pdfs, getLocalPdfs())
+
+    savedPdfs = getLocalPdfs()
+
+    for pdf in savedPdfs:
+        try:
+            extract_pdf_info(pdf)
+        except Exception as e:
+            print(e)
+            print("Error extracting info from " + pdf)
+            continue
+
+    for category in categories:
+        # sort the history array by id
+        category["history"].sort(key=lambda x: x["id"])
+
+    # save categories to json
+    with open("data.json", "w") as f:
+        json.dump(categories, f, indent=4)
+        f.close()
+
+    # now, create a csv file per category
+    separator = ";"
+    for category in categories:
+        with open(category["id"] + ".csv", "w") as f:
+            f.write("id;label;spain;andalucia;catalunya;castillaLaMancha;extremadura")
+            f.write("\n")
+            for tuple in category["history"]:
+                cm = 0
+                # if  tuple["ccaa"]["castillaLaMancha"] exists, add it to the cm variable
+                if "castillaLaMancha" in tuple["ccaa"]:
+                    cm = tuple["ccaa"]["castillaLaMancha"]
+                f.write(str(tuple["id"]) + separator + tuple["label"] + separator + str(tuple["value"]) + separator + str(tuple["ccaa"]["andalucia"]) + separator + str(tuple["ccaa"]["catalunya"]) + separator + str(cm) + separator + str(tuple["ccaa"]["extremadura"]))
+                f.write("\n")
+
+            f.close()
 
 
 def test():
