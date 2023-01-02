@@ -6,7 +6,13 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 533.45
+                "value": 533.45,
+                "ccaa": {
+                    "andalucia": 533.1,
+                    "catalunya": 540.0,
+                    "extremadura": 521.0,
+                    "castillaLaMancha": 538.0
+                }
             }
         ]
     },
@@ -17,7 +23,13 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 505.42
+                "value": 505.42,
+                "ccaa": {
+                    "andalucia": 479.0,
+                    "catalunya": 520.0,
+                    "extremadura": 488.5,
+                    "castillaLaMancha": 503.0
+                }
             }
         ]
     },
@@ -28,7 +40,12 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 488.64
+                "value": 488.64,
+                "ccaa": {
+                    "andalucia": 490.9,
+                    "catalunya": 460.0,
+                    "extremadura": 460.33
+                }
             }
         ]
     },
@@ -39,7 +56,13 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 413.08
+                "value": 413.08,
+                "ccaa": {
+                    "andalucia": 533.1,
+                    "catalunya": 540.0,
+                    "extremadura": 521.0,
+                    "castillaLaMancha": 538.0
+                }
             }
         ]
     },
@@ -50,7 +73,13 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 288.41
+                "value": 288.41,
+                "ccaa": {
+                    "andalucia": 533.1,
+                    "catalunya": 540.0,
+                    "extremadura": 521.0,
+                    "castillaLaMancha": 538.0
+                }
             }
         ]
     },
@@ -61,7 +90,13 @@
             {
                 "id": 202251,
                 "label": "Semana 51 de 2022",
-                "value": 485.15
+                "value": 485.15,
+                "ccaa": {
+                    "andalucia": 533.1,
+                    "catalunya": 540.0,
+                    "extremadura": 521.0,
+                    "castillaLaMancha": 538.0
+                }
             }
         ]
     }

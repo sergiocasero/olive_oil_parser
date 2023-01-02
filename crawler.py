@@ -82,7 +82,6 @@ def extractCategoryLine(page, category):
         line = line.replace("**", "")
         if line.startswith(category["label"]):
             line = line.replace(category["label"], "")
-            print(category["label"] + ": " +line)
             return line.strip().split(" ")[1]
 
 def extract_pdf_info(pdf):
@@ -98,10 +97,12 @@ def extract_pdf_info(pdf):
 
         # add the value to the category, parse to float
         tuple["value"] = float(value.replace(",", "."))
+        tuple["ccaa"] = extract_ccaas_history(category["id"], pdfReader.pages[5])
 
         # add the value to the category.values array
         category["history"].append(tuple)
 
+    
 
     pdfFileObj.close()
         
@@ -128,6 +129,44 @@ def crawl():
     with open("data.json", "w") as f:
         json.dump(categories, f, indent=4)
         f.close()
+
+def extract_ccaa_info(lines, ccaa):
+    ccaaTuples = []
+    for line in lines:
+        if line.startswith(ccaa):
+            tuple = line.split(" ")
+            valuePosition = 5
+            if ccaa == "Castilla-La Mancha":
+                valuePosition = 6
+            tuple = tuple[valuePosition].replace(",", ".")
+            tuple = float(tuple)
+
+            ccaaTuples.append(tuple)
+    return ccaaTuples
+
+def extract_ccaas_history(categoryId, page):
+    text = page.extract_text()
+    lines = text.split("\n")
+    
+    valueToExtract = 0
+    if categoryId == "aove":
+        valueToExtract = 0
+    elif categoryId == "aov":
+        valueToExtract = 1
+    elif categoryId == "aol":
+        valueToExtract = 2
+
+    result = {
+        "andalucia": extract_ccaa_info(lines, "Andalucía")[valueToExtract],
+        "catalunya": extract_ccaa_info(lines, "Cataluña")[valueToExtract],
+        "extremadura": extract_ccaa_info(lines, "Extremadura")[valueToExtract]
+    }
+
+    if valueToExtract == 0 or valueToExtract == 1:
+        result["castillaLaMancha"] = extract_ccaa_info(lines, "Castilla-La Mancha")[valueToExtract]
+    
+    return result
+
 
 def test():
     extract_pdf_info("pdfs/512022boletinsemanalpreciosaceitedeoliva2021-22_tcm30-640308.pdf")
