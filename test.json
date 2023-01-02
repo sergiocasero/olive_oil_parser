@@ -1,0 +1,68 @@
+[
+    {
+        "id": "aove",
+        "label": "Aceite de oliva virgen extra",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 533.45
+            }
+        ]
+    },
+    {
+        "id": "aov",
+        "label": "Aceite de oliva virgen",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 505.42
+            }
+        ]
+    },
+    {
+        "id": "aol",
+        "label": "Aceite de oliva lampante",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 488.64
+            }
+        ]
+    },
+    {
+        "id": "aof",
+        "label": "Aceite de oliva refinado",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 413.08
+            }
+        ]
+    },
+    {
+        "id": "aouor",
+        "label": "Aceite de orujo de oliva refinado",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 288.41
+            }
+        ]
+    },
+    {
+        "id": "mso",
+        "label": "MEDIA SIN ORUJO",
+        "history": [
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 485.15
+            }
+        ]
+    }
+]

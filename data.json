@@ -1,0 +1,4058 @@
+[
+    {
+        "id": "aove",
+        "label": "Aceite de oliva virgen extra",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 215.27
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 212.62
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 214.6
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 208.67
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 208.78
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 208.79
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 206.93
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 206.7
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 207.2
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 206.93
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 202.63
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 203.88
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 201.74
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 202.15
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 201.92
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 200.67
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 196.16
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 195.76
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 198.26
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 199.29
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 207.13
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 209.93
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 210.38
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 214.73
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 216.71
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 219.04
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 221.57
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 227.54
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 229.4
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 232.22
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 237.19
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 240.72
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 243.83
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 248.44
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 252.75
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 251.86
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 252.05
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 249.8
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 250.35
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 252.93
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 254.4
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 255.47
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 258.58
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 266.84
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 268.78
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 269.86
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 269.4
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 272.15
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 275.29
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 277.74
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 280.0
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 283.12
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 293.52
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 308.02
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 328.37
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 335.68
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 337.39
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 337.45
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 333.53
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 332.56
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 329.91
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 331.0
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 333.99
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 335.86
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 331.8
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 329.18
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 328.81
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 325.88
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 322.53
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 327.32
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 330.56
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 333.75
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 327.43
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 317.66
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 317.92
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 319.55
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 321.86
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 323.75
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 321.42
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 315.9
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 313.88
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 316.4
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 320.9
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 325.27
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 325.95
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 328.68
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 329.48
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 336.12
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 335.7
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 334.04
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 328.17
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 326.29
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 323.55
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 326.42
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 326.28
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 331.02
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 346.87
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 360.56
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 359.95
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 352.26
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 345.47
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 344.0
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 340.13
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 339.27
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 340.45
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 340.73
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 339.86
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 339.1
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 339.33
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 335.56
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 334.84
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 337.86
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 341.79
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 348.73
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 357.2
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 361.58
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 382.43
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 388.26
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 391.99
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 396.32
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 396.54
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 396.19
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 412.21
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 442.58
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 460.59
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 470.91
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 472.62
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 475.26
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 476.17
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 480.09
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 501.66
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 519.45
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 526.89
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 533.45
+            }
+        ]
+    },
+    {
+        "id": "aov",
+        "label": "Aceite de oliva virgen",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 185.72
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 184.45
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 184.45
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 184.06
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 184.12
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 182.53
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 179.78
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 179.32
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 176.39
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 174.92
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 169.36
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 170.46
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 171.51
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 172.85
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 173.56
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 174.23
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 174.57
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 177.5
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 178.65
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 178.97
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 181.19
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 184.01
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 186.7
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 188.62
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 191.79
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 193.99
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 196.82
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 201.98
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 203.45
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 206.0
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 200.93
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 200.87
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 199.8
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 199.74
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 200.09
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 200.61
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 200.25
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 200.61
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 203.1
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 207.95
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 220.58
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 226.9
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 224.41
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 234.83
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 238.66
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 240.42
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 240.8
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 246.16
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 247.57
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 251.43
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 252.25
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 260.64
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 274.46
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 285.4
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 310.86
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 318.65
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 319.93
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 320.27
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 318.61
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 316.61
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 311.8
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 307.51
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 308.53
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 310.47
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 309.97
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 309.84
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 309.9
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 309.7
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 302.61
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 312.84
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 314.95
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 312.46
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 305.77
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 301.16
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 302.53
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 299.17
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 298.39
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 296.82
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 288.85
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 295.6
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 287.09
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 286.88
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 289.56
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 293.05
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 293.66
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 298.86
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 300.29
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 309.53
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 311.93
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 308.06
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 307.03
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 307.07
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 306.4
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 308.63
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 308.53
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 311.81
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 333.39
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 347.83
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 347.13
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 336.73
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 333.19
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 331.54
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 328.1
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 326.62
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 326.54
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 326.4
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 327.2
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 325.9
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 324.57
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 323.57
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 323.45
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 326.71
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 330.27
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 339.81
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 347.85
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 351.3
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 367.66
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 381.14
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 384.73
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 386.84
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 386.72
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 386.42
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 398.75
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 424.45
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 437.97
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 445.55
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 447.21
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 448.75
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 450.13
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 454.78
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 478.62
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 493.43
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 498.98
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 505.42
+            }
+        ]
+    },
+    {
+        "id": "aol",
+        "label": "Aceite de oliva lampante",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 174.24
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 175.03
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 174.56
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 173.79
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 173.16
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 171.99
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 167.93
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 165.55
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 165.04
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 164.74
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 161.0
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 161.92
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 164.54
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 166.3
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 167.64
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 168.79
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 168.04
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 167.78
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 168.39
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 167.81
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 170.4
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 173.76
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 175.45
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 179.04
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 184.12
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 187.54
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 189.98
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 193.86
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 195.03
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 198.65
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 194.14
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 193.99
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 193.24
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 193.3
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 193.66
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 191.71
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 192.29
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 192.24
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 192.03
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 193.56
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 193.33
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 199.33
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 201.55
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 215.55
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 221.97
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 225.66
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 226.06
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 230.68
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 232.86
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 236.93
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 238.11
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 244.43
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 263.3
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 274.27
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 292.06
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 299.45
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 303.13
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 303.29
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 301.14
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 300.37
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 299.37
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 295.9
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 293.86
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 293.69
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 293.71
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 293.18
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 293.13
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 290.42
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 283.84
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 292.39
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 293.96
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 294.51
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 293.54
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 292.48
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 290.31
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 287.0
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 285.36
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 284.42
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 283.78
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 276.83
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 275.24
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 276.13
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 278.1
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 278.2
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 278.4
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 286.9
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 289.2
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 295.23
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 297.52
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 297.45
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 292.41
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 289.66
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 291.86
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 293.92
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 294.11
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 302.18
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 322.65
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 338.93
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 335.15
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 324.91
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 319.18
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 315.07
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 316.24
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 318.12
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 317.89
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 318.24
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 319.0
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 317.37
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 318.29
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 317.45
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 317.23
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 320.98
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 325.12
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 332.33
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 341.07
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 345.28
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 367.33
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 371.4
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 377.17
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 380.39
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 380.54
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 380.55
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 388.76
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 413.83
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 423.89
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 431.22
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 434.09
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 436.31
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 436.93
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 441.66
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 464.78
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 476.56
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 485.84
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 488.64
+            }
+        ]
+    },
+    {
+        "id": "aof",
+        "label": "Aceite de oliva refinado",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 178.03
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 177.53
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 177.28
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 176.14
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 175.34
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 174.64
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 172.92
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 171.82
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 168.69
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 167.93
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 166.81
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 165.69
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 167.01
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 167.23
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 168.36
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 170.05
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 170.09
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 170.39
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 170.63
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 171.04
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 174.04
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 176.63
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 178.16
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 179.92
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 184.44
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 188.0
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 190.44
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 196.77
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 197.96
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 200.64
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 198.0
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 197.92
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 194.64
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 193.64
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 195.14
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 194.13
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 193.88
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 193.88
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 194.13
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 194.59
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 197.45
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 200.86
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 207.53
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 217.24
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 224.96
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 228.87
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 229.5
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 232.71
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 238.53
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 241.56
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 243.25
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 246.5
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 266.38
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 279.02
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 295.94
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 302.06
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 305.13
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 307.0
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 305.13
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 304.15
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 303.19
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 302.44
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 300.81
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 302.06
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 301.94
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 300.81
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 299.34
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 296.46
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 295.13
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 298.38
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 300.79
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 301.66
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 299.39
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 298.13
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 295.5
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 294.35
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 294.02
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 294.02
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 293.93
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 293.93
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 287.77
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 285.81
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 285.49
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 285.66
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 284.19
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 287.93
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 290.36
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 299.66
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 302.72
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 302.53
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 299.49
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 299.49
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 299.33
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 300.01
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 300.19
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 307.4
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 325.31
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 329.55
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 333.43
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 336.11
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 335.27
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 333.17
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 329.57
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 328.54
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 328.7
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 330.57
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 331.71
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 331.33
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 329.21
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 328.23
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 327.85
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 331.06
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 335.87
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 345.34
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 351.94
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 354.47
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 367.15
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 367.92
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 378.38
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 378.38
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 378.38
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 378.71
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 381.23
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 404.82
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 410.22
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 409.65
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 409.65
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 409.65
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 409.65
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 410.03
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 411.18
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 414.23
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 414.23
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 413.08
+            }
+        ]
+    },
+    {
+        "id": "aouor",
+        "label": "Aceite de orujo de oliva refinado",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 102.21
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 101.85
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 101.69
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 100.71
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 102.86
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 101.77
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 98.81
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 98.23
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 97.25
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 96.97
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 96.74
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 95.62
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 95.21
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 95.61
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 94.94
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 95.04
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 94.9
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 95.07
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 95.07
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 94.83
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 93.84
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 94.12
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 94.17
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 94.98
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 94.72
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 93.95
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 94.26
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 95.07
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 95.8
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 96.55
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 97.41
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 97.38
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 97.52
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 98.25
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 98.69
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 98.75
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 98.57
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 98.57
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 98.21
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 99.02
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 101.14
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 102.09
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 109.79
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 113.42
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 121.1
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 125.37
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 127.9
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 130.68
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 131.9
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 134.09
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 135.14
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 138.01
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 147.11
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 145.51
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 152.64
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 155.69
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 160.7
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 161.8
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 163.11
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 163.03
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 163.34
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 162.75
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 162.91
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 162.64
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 162.42
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 162.53
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 162.44
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 161.4
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 161.06
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 160.68
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 161.19
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 158.38
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 158.46
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 157.95
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 157.57
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 157.57
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 155.07
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 155.07
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 154.99
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 154.99
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 153.62
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 153.62
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 153.62
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 153.62
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 153.62
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 153.57
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 153.65
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 159.2
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 162.01
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 162.08
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 168.99
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 170.16
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 171.59
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 173.84
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 174.84
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 176.8
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 185.32
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 185.37
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 186.73
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 315.15
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 314.98
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 314.98
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 307.52
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 306.64
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 304.62
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 294.2
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 290.62
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 287.25
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 285.81
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 282.66
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 280.27
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 278.03
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 277.14
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 275.79
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 272.43
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 272.51
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 272.65
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 270.44
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 271.55
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 272.43
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 271.47
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 271.39
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 272.27
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 275.34
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 277.66
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 279.69
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 279.69
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 280.72
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 280.46
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 282.42
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 283.86
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 286.92
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 288.41
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 288.41
+            }
+        ]
+    },
+    {
+        "id": "mso",
+        "label": "MEDIA SIN ORUJO",
+        "history": [
+            {
+                "id": 202012,
+                "label": "Semana 12 de 2020",
+                "value": 188.32
+            },
+            {
+                "id": 202013,
+                "label": "Semana 13 de 2020",
+                "value": 187.41
+            },
+            {
+                "id": 202014,
+                "label": "Semana 14 de 2020",
+                "value": 187.72
+            },
+            {
+                "id": 202015,
+                "label": "Semana 15 de 2020",
+                "value": 185.67
+            },
+            {
+                "id": 202016,
+                "label": "Semana 16 de 2020",
+                "value": 185.35
+            },
+            {
+                "id": 202017,
+                "label": "Semana 17 de 2020",
+                "value": 184.49
+            },
+            {
+                "id": 202018,
+                "label": "Semana 18 de 2020",
+                "value": 181.89
+            },
+            {
+                "id": 202019,
+                "label": "Semana 19 de 2020",
+                "value": 180.85
+            },
+            {
+                "id": 202020,
+                "label": "Semana 20 de 2020",
+                "value": 179.33
+            },
+            {
+                "id": 202021,
+                "label": "Semana 21 de 2020",
+                "value": 178.63
+            },
+            {
+                "id": 202022,
+                "label": "Semana 22 de 2020",
+                "value": 174.95
+            },
+            {
+                "id": 202023,
+                "label": "Semana 23 de 2020",
+                "value": 175.49
+            },
+            {
+                "id": 202024,
+                "label": "Semana 24 de 2020",
+                "value": 176.2
+            },
+            {
+                "id": 202025,
+                "label": "Semana 25 de 2020",
+                "value": 177.13
+            },
+            {
+                "id": 202026,
+                "label": "Semana 26 de 2020",
+                "value": 177.87
+            },
+            {
+                "id": 202027,
+                "label": "Semana 27 de 2020",
+                "value": 178.43
+            },
+            {
+                "id": 202028,
+                "label": "Semana 28 de 2020",
+                "value": 177.21
+            },
+            {
+                "id": 202029,
+                "label": "Semana 29 de 2020",
+                "value": 177.86
+            },
+            {
+                "id": 202030,
+                "label": "Semana 30 de 2020",
+                "value": 178.98
+            },
+            {
+                "id": 202031,
+                "label": "Semana 31 de 2020",
+                "value": 179.28
+            },
+            {
+                "id": 202036,
+                "label": "Semana 36 de 2020",
+                "value": 183.19
+            },
+            {
+                "id": 202037,
+                "label": "Semana 37 de 2020",
+                "value": 186.08
+            },
+            {
+                "id": 202038,
+                "label": "Semana 38 de 2020",
+                "value": 187.67
+            },
+            {
+                "id": 202039,
+                "label": "Semana 39 de 2020",
+                "value": 190.58
+            },
+            {
+                "id": 202040,
+                "label": "Semana 40 de 2020",
+                "value": 194.27
+            },
+            {
+                "id": 202041,
+                "label": "Semana 41 de 2020",
+                "value": 197.14
+            },
+            {
+                "id": 202042,
+                "label": "Semana 42 de 2020",
+                "value": 199.7
+            },
+            {
+                "id": 202043,
+                "label": "Semana 43 de 2020",
+                "value": 205.04
+            },
+            {
+                "id": 202044,
+                "label": "Semana 44 de 2020",
+                "value": 206.46
+            },
+            {
+                "id": 202045,
+                "label": "Semana 45 de 2020",
+                "value": 209.38
+            },
+            {
+                "id": 202046,
+                "label": "Semana 46 de 2020",
+                "value": 207.57
+            },
+            {
+                "id": 202047,
+                "label": "Semana 47 de 2020",
+                "value": 208.38
+            },
+            {
+                "id": 202048,
+                "label": "Semana 48 de 2020",
+                "value": 207.88
+            },
+            {
+                "id": 202049,
+                "label": "Semana 49 de 2020",
+                "value": 208.78
+            },
+            {
+                "id": 202050,
+                "label": "Semana 50 de 2020",
+                "value": 210.41
+            },
+            {
+                "id": 202051,
+                "label": "Semana 51 de 2020",
+                "value": 209.58
+            },
+            {
+                "id": 202052,
+                "label": "Semana 52 de 2020",
+                "value": 209.62
+            },
+            {
+                "id": 202053,
+                "label": "Semana 53 de 2020",
+                "value": 209.13
+            },
+            {
+                "id": 202101,
+                "label": "Semana 01 de 2021",
+                "value": 209.9
+            },
+            {
+                "id": 202102,
+                "label": "Semana 02 de 2021",
+                "value": 212.26
+            },
+            {
+                "id": 202103,
+                "label": "Semana 03 de 2021",
+                "value": 216.44
+            },
+            {
+                "id": 202104,
+                "label": "Semana 04 de 2021",
+                "value": 220.64
+            },
+            {
+                "id": 202105,
+                "label": "Semana 05 de 2021",
+                "value": 223.02
+            },
+            {
+                "id": 202106,
+                "label": "Semana 06 de 2021",
+                "value": 233.62
+            },
+            {
+                "id": 202107,
+                "label": "Semana 07 de 2021",
+                "value": 238.59
+            },
+            {
+                "id": 202108,
+                "label": "Semana 08 de 2021",
+                "value": 241.2
+            },
+            {
+                "id": 202109,
+                "label": "Semana 09 de 2021",
+                "value": 241.44
+            },
+            {
+                "id": 202110,
+                "label": "Semana 10 de 2021",
+                "value": 245.43
+            },
+            {
+                "id": 202111,
+                "label": "Semana 11 de 2021",
+                "value": 248.56
+            },
+            {
+                "id": 202112,
+                "label": "Semana 12 de 2021",
+                "value": 251.92
+            },
+            {
+                "id": 202113,
+                "label": "Semana 13 de 2021",
+                "value": 253.4
+            },
+            {
+                "id": 202114,
+                "label": "Semana 14 de 2021",
+                "value": 258.67
+            },
+            {
+                "id": 202115,
+                "label": "Semana 15 de 2021",
+                "value": 274.42
+            },
+            {
+                "id": 202116,
+                "label": "Semana 16 de 2021",
+                "value": 286.68
+            },
+            {
+                "id": 202117,
+                "label": "Semana 17 de 2021",
+                "value": 306.81
+            },
+            {
+                "id": 202118,
+                "label": "Semana 18 de 2021",
+                "value": 313.96
+            },
+            {
+                "id": 202119,
+                "label": "Semana 19 de 2021",
+                "value": 316.4
+            },
+            {
+                "id": 202120,
+                "label": "Semana 20 de 2021",
+                "value": 317.0
+            },
+            {
+                "id": 202121,
+                "label": "Semana 21 de 2021",
+                "value": 314.6
+            },
+            {
+                "id": 202122,
+                "label": "Semana 22 de 2021",
+                "value": 313.42
+            },
+            {
+                "id": 202123,
+                "label": "Semana 23 de 2021",
+                "value": 311.07
+            },
+            {
+                "id": 202124,
+                "label": "Semana 24 de 2021",
+                "value": 309.21
+            },
+            {
+                "id": 202125,
+                "label": "Semana 25 de 2021",
+                "value": 309.3
+            },
+            {
+                "id": 202126,
+                "label": "Semana 26 de 2021",
+                "value": 310.52
+            },
+            {
+                "id": 202127,
+                "label": "Semana 27 de 2021",
+                "value": 309.36
+            },
+            {
+                "id": 202128,
+                "label": "Semana 28 de 2021",
+                "value": 308.25
+            },
+            {
+                "id": 202129,
+                "label": "Semana 29 de 2021",
+                "value": 307.8
+            },
+            {
+                "id": 202130,
+                "label": "Semana 30 de 2021",
+                "value": 305.62
+            },
+            {
+                "id": 202134,
+                "label": "Semana 34 de 2021",
+                "value": 301.03
+            },
+            {
+                "id": 202135,
+                "label": "Semana 35 de 2021",
+                "value": 307.73
+            },
+            {
+                "id": 202136,
+                "label": "Semana 36 de 2021",
+                "value": 310.07
+            },
+            {
+                "id": 202137,
+                "label": "Semana 37 de 2021",
+                "value": 310.6
+            },
+            {
+                "id": 202138,
+                "label": "Semana 38 de 2021",
+                "value": 306.53
+            },
+            {
+                "id": 202139,
+                "label": "Semana 39 de 2021",
+                "value": 302.36
+            },
+            {
+                "id": 202140,
+                "label": "Semana 40 de 2021",
+                "value": 301.57
+            },
+            {
+                "id": 202141,
+                "label": "Semana 41 de 2021",
+                "value": 300.02
+            },
+            {
+                "id": 202142,
+                "label": "Semana 42 de 2021",
+                "value": 299.91
+            },
+            {
+                "id": 202143,
+                "label": "Semana 43 de 2021",
+                "value": 299.75
+            },
+            {
+                "id": 202144,
+                "label": "Semana 44 de 2021",
+                "value": 297.0
+            },
+            {
+                "id": 202145,
+                "label": "Semana 45 de 2021",
+                "value": 295.57
+            },
+            {
+                "id": 202146,
+                "label": "Semana 46 de 2021",
+                "value": 291.0
+            },
+            {
+                "id": 202147,
+                "label": "Semana 47 de 2021",
+                "value": 291.31
+            },
+            {
+                "id": 202148,
+                "label": "Semana 48 de 2021",
+                "value": 293.51
+            },
+            {
+                "id": 202149,
+                "label": "Semana 49 de 2021",
+                "value": 295.55
+            },
+            {
+                "id": 202150,
+                "label": "Semana 50 de 2021",
+                "value": 295.55
+            },
+            {
+                "id": 202151,
+                "label": "Semana 51 de 2021",
+                "value": 300.59
+            },
+            {
+                "id": 202152,
+                "label": "Semana 52 de 2021",
+                "value": 302.33
+            },
+            {
+                "id": 202201,
+                "label": "Semana 01 de 2022",
+                "value": 310.14
+            },
+            {
+                "id": 202202,
+                "label": "Semana 02 de 2022",
+                "value": 311.97
+            },
+            {
+                "id": 202203,
+                "label": "Semana 03 de 2022",
+                "value": 310.52
+            },
+            {
+                "id": 202204,
+                "label": "Semana 04 de 2022",
+                "value": 306.78
+            },
+            {
+                "id": 202205,
+                "label": "Semana 05 de 2022",
+                "value": 305.63
+            },
+            {
+                "id": 202206,
+                "label": "Semana 06 de 2022",
+                "value": 305.29
+            },
+            {
+                "id": 202207,
+                "label": "Semana 07 de 2022",
+                "value": 307.25
+            },
+            {
+                "id": 202208,
+                "label": "Semana 08 de 2022",
+                "value": 307.28
+            },
+            {
+                "id": 202209,
+                "label": "Semana 09 de 2022",
+                "value": 313.1
+            },
+            {
+                "id": 202210,
+                "label": "Semana 10 de 2022",
+                "value": 332.06
+            },
+            {
+                "id": 202211,
+                "label": "Semana 11 de 2022",
+                "value": 344.22
+            },
+            {
+                "id": 202212,
+                "label": "Semana 12 de 2022",
+                "value": 343.92
+            },
+            {
+                "id": 202213,
+                "label": "Semana 13 de 2022",
+                "value": 337.5
+            },
+            {
+                "id": 202214,
+                "label": "Semana 14 de 2022",
+                "value": 333.28
+            },
+            {
+                "id": 202215,
+                "label": "Semana 15 de 2022",
+                "value": 330.95
+            },
+            {
+                "id": 202216,
+                "label": "Semana 16 de 2022",
+                "value": 328.51
+            },
+            {
+                "id": 202217,
+                "label": "Semana 17 de 2022",
+                "value": 328.14
+            },
+            {
+                "id": 202218,
+                "label": "Semana 18 de 2022",
+                "value": 328.4
+            },
+            {
+                "id": 202219,
+                "label": "Semana 19 de 2022",
+                "value": 328.99
+            },
+            {
+                "id": 202220,
+                "label": "Semana 20 de 2022",
+                "value": 329.44
+            },
+            {
+                "id": 202221,
+                "label": "Semana 21 de 2022",
+                "value": 328.43
+            },
+            {
+                "id": 202222,
+                "label": "Semana 22 de 2022",
+                "value": 327.85
+            },
+            {
+                "id": 202223,
+                "label": "Semana 23 de 2022",
+                "value": 326.2
+            },
+            {
+                "id": 202224,
+                "label": "Semana 24 de 2022",
+                "value": 325.84
+            },
+            {
+                "id": 202225,
+                "label": "Semana 25 de 2022",
+                "value": 329.15
+            },
+            {
+                "id": 202226,
+                "label": "Semana 26 de 2022",
+                "value": 333.26
+            },
+            {
+                "id": 202227,
+                "label": "Semana 27 de 2022",
+                "value": 341.55
+            },
+            {
+                "id": 202228,
+                "label": "Semana 28 de 2022",
+                "value": 349.52
+            },
+            {
+                "id": 202229,
+                "label": "Semana 29 de 2022",
+                "value": 353.16
+            },
+            {
+                "id": 202234,
+                "label": "Semana 34 de 2022",
+                "value": 371.14
+            },
+            {
+                "id": 202235,
+                "label": "Semana 35 de 2022",
+                "value": 377.18
+            },
+            {
+                "id": 202236,
+                "label": "Semana 36 de 2022",
+                "value": 383.07
+            },
+            {
+                "id": 202237,
+                "label": "Semana 37 de 2022",
+                "value": 385.48
+            },
+            {
+                "id": 202238,
+                "label": "Semana 38 de 2022",
+                "value": 385.55
+            },
+            {
+                "id": 202239,
+                "label": "Semana 39 de 2022",
+                "value": 385.47
+            },
+            {
+                "id": 202240,
+                "label": "Semana 40 de 2022",
+                "value": 395.24
+            },
+            {
+                "id": 202241,
+                "label": "Semana 41 de 2022",
+                "value": 421.42
+            },
+            {
+                "id": 202242,
+                "label": "Semana 42 de 2022",
+                "value": 433.17
+            },
+            {
+                "id": 202243,
+                "label": "Semana 43 de 2022",
+                "value": 439.33
+            },
+            {
+                "id": 202244,
+                "label": "Semana 44 de 2022",
+                "value": 440.89
+            },
+            {
+                "id": 202245,
+                "label": "Semana 45 de 2022",
+                "value": 442.49
+            },
+            {
+                "id": 202246,
+                "label": "Semana 46 de 2022",
+                "value": 443.22
+            },
+            {
+                "id": 202247,
+                "label": "Semana 47 de 2022",
+                "value": 446.64
+            },
+            {
+                "id": 202248,
+                "label": "Semana 48 de 2022",
+                "value": 464.06
+            },
+            {
+                "id": 202249,
+                "label": "Semana 49 de 2022",
+                "value": 475.92
+            },
+            {
+                "id": 202250,
+                "label": "Semana 50 de 2022",
+                "value": 481.49
+            },
+            {
+                "id": 202251,
+                "label": "Semana 51 de 2022",
+                "value": 485.15
+            }
+        ]
+    }
+]
